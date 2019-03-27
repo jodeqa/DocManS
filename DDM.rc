@@ -1,0 +1,7 @@
+PDFX RCDATA "pdfx.exe"
+DECC RCDATA "decc.exe"
+wait RCDATA "wait.gif"
+oto RCDATA "oto.jpg"
+sof RCDATA "sof.jpg"
+ole RCDATA "ole.jpg"
+docman RCDATA "docman.jpg"
